@@ -1,4 +1,4 @@
-# Patient-Emergency-Room-Visit-Analysis-Dashboard
+# 🏥 Patient-Emergency-Room-Visit-Analysis-Dashboard
 ## 📝 Project Objective
 This Power BI dashboard presents a detailed analysis of Emergency Room (ER) patient visits, offering insights into patient demographics, appointment types, referrals, satisfaction levels, and service wait times. It helps hospital administrators and analysts make informed decisions to improve patient care and optimize resources.
 
