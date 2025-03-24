@@ -1,11 +1,11 @@
 # Patient-Emergency-Room-Visit-Analysis-Dashboard
-## Project Objective
+## 📝 Project Objective
 This Power BI dashboard presents a detailed analysis of Emergency Room (ER) patient visits, offering insights into patient demographics, appointment types, referrals, satisfaction levels, and service wait times. It helps hospital administrators and analysts make informed decisions to improve patient care and optimize resources.
 
-## Dataset Used
+## 🗂 Dataset Used
 - <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard/blob/main/Hospital%20ER.csv">Dataset</a>
 
-## Key Insights
+## 📌 Key Insights
 - Total ER visits analyzed: 9,216
 - Nearly balanced Administrative (50.04%) and Non-Administrative (49.96%) appointments
 - Highest patient visits during weekdays (6,574 visits) compared to weekends (2,642 visits)
@@ -18,7 +18,7 @@ This Power BI dashboard presents a detailed analysis of Emergency Room (ER) pati
 - Departmental referrals: Most patients visited without a referral, followed by General Practice and Orthopedics
 - Heatmap to analyze Satisfaction Scores across different patient demographics.
 
-## Dashboard Features
+## 📈 Dashboard Features
 - Dynamic KPIs for Satisfaction Score, Wait Time, and Service Ratings
 - Patient visit trends by year and month
 - Age group and gender distribution
@@ -26,21 +26,21 @@ This Power BI dashboard presents a detailed analysis of Emergency Room (ER) pati
 - Heatmap analysis of patient satisfaction by race and age group
 - Insights for operational improvements and decision-making
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - Power BI (Data Modeling & Visualization)
 - Power Query (Data Cleaning & Transformation)
 - DAX (Custom Metrics Calculation)
 
-## Dashboard Interaction
+## 📷 Dashboard Interaction
 - <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
 
-## Business Impact
+## 💡Business Impact
 - Helps hospital management understand patient flow and peak times
 - Supports decision-making to reduce wait times and improve service quality
 - Provides demographic insights for tailored healthcare services
 - Identifies areas needing improvement in patient satisfaction
 
-## Dashboard Preview
+## 📷 Dashboard Preview
 ![Hospital Dashboard](https://github.com/user-attachments/assets/86c120de-e957-4e24-b337-ea2a357d677d)
 
 
