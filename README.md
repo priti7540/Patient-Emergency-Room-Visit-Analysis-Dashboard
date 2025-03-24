@@ -27,9 +27,9 @@ This Power BI dashboard presents a detailed analysis of Emergency Room (ER) pati
 - Insights for operational improvements and decision-making
 
 ## Tools & Technologies
-Power BI (Data Modeling & Visualization)
-Power Query (Data Cleaning & Transformation)
-DAX (Custom Metrics Calculation)
+- Power BI (Data Modeling & Visualization)
+- Power Query (Data Cleaning & Transformation)
+- DAX (Custom Metrics Calculation)
 
 ## Dashboard Interaction
 - <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
